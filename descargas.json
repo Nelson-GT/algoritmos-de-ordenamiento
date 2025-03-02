@@ -1,0 +1,62 @@
+[
+    {
+        "url": "http://example.com/file1.zip",
+        "tamano": 100,
+        "fecha_inicio": "2024-10-12 14:30:00",
+        "estado": "completada"
+    },
+    {
+        "url": "http://example.com/file2.zip",
+        "tamano": 250,
+        "fecha_inicio": "2024-10-13 10:00:00",
+        "estado": "pendiente"
+    },
+    {
+        "url": "http://example.com/file3.zip",
+        "tamano": 50,
+        "fecha_inicio": "2024-10-14 09:15:00",
+        "estado": "en_progreso"
+    },
+    {
+        "url": "http://example.com/file4.zip",
+        "tamano": 300,
+        "fecha_inicio": "2024-10-10 08:00:00",
+        "estado": "cancelada"
+    },
+    {
+        "url": "http://example.com/file5.zip",
+        "tamano": 20,
+        "fecha_inicio": "2024-10-14 11:00:00",
+        "estado": "completada"
+    },
+    {
+        "url": "http://example.com/file6.zip",
+        "tamano": 500,
+        "fecha_inicio": "2024-10-15 07:30:00",
+        "estado": "pendiente"
+    },
+    {
+        "url": "https://ejemplo.com/file=1",
+        "tamano": 25.0,
+        "fecha_inicio": "2025-03-02 14:20:42",
+        "estado": "completada"
+    },
+    {
+        "url": "https://ejemplo.com/file=2",
+        "tamano": 52.0,
+        "fecha_inicio": "2025-03-02 14:20:58",
+        "estado": "pendiente"
+    },
+    {
+        "url": "https://ejemplo.com/file=3",
+        "tamano": 68.0,
+        "fecha_inicio": "2025-03-02 14:21:24",
+        "estado": "en_progreso"
+    },
+    {
+        "url": "https://ejemplo.com/file=4",
+        "tamano": 100.0,
+        "fecha_inicio": "2025-03-02 14:21:47",
+        "estado": "cancelada"
+    }
+]
